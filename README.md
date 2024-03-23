@@ -1,5 +1,1 @@
-# this is just a test-repo
-a = 2
-b = 3
-d = a+b
-print(d)
+# this is a repository for the submission of my IBM assignments
